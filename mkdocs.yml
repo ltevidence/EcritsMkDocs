@@ -1,0 +1,5 @@
+site_name: Ecrits propulsés par l'IA
+repo_url: https://github.com/ltevidence/EcritsMkDocs
+repo_name: EcritsMkDocs
+theme:
+  name: readthedocs
